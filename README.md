@@ -17,3 +17,8 @@ O Jogo da Velha é um jogo para dois jogadores, onde cada jogador escolhe um sí
 - Dois jogadores podem jogar alternadamente clicando nos espaços da grade.
 - Verificação automática de vitória ou empate após cada jogada.
 - Opção para reiniciar o jogo após o término.
+
+## Acessar Jogo da Velha
+
+- **GitHub Pages**: Uma forma de hospedar seus pequenas projetos de forma rápida e simples.
+- **Link**: https://devg-lustosa.github.io/Jogo-da-Velha-JS/
